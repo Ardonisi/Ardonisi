@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Anything**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.facebook.com/Ardo.xyz/</h3>
 <p align="left">
 </p>
 
