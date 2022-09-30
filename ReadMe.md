@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ardonis</h1>
-<h3 align="center">A passionate developer from Germany</h3>
+<h3 align="center">Dev</h3>
 
 - 🔭 I’m currently working on **on a few projects**
 
