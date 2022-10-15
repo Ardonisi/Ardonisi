@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ardonis</h1>
 <h3 align="center">Dev</h3>
 
-- 🔭 I’m currently working on **on a few projects, including a datastructure visualiser**
+- 🔭 I’m currently working on **on a few projects, including a DataStructure visualiser**
 
 - 💬 Ask me about **Anything**
 
