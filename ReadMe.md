@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **ardonnis.halimi@gmail.com**
+- 📫 How to reach me: **ardonnis.halimi@gmail.com**
 
 
 
