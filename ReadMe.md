@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ardonis</h1>
 <h3 align="center">Dev</h3>
 
-<img align="right" alt="Coding" style="border-radius:100px;" width="400" src="https://user-images.githubusercontent.com/44942059/202292917-638abbee-1d4f-4af4-8b02-c5fd1707da6f.gif"/>
+<img align="right" alt="Coding" style="border-radius:100px;" width="400" src="https://user-images.githubusercontent.com/44942059/202294455-f742568e-8600-4d13-bc33-eaddc35f9d94.gif"/>
 - 🔭 I’m currently working on **on a few projects, including a DataStructure visualizer**
 
 - 💬 Ask me about **Anything**
