@@ -2,7 +2,7 @@
 
 <h3 align="center">Dev</h3>
 
-<img align="right" alt="Coding" style="border-radius:100px;" width="200" src="https://user-images.githubusercontent.com/44942059/202863430-25623afe-ecf1-4fdf-a68a-101d9e56f7d4.gif"/>
+<img align="right" alt="Coding" style="border-radius:100px;" width="200" src="https://user-images.githubusercontent.com/44942059/202863936-c74e37ae-86eb-4a0a-9328-8a7ab9ab1406.gif"/>
 - 🔭 I’m currently working on **on a few projects, including a DataStructure visualizer**
 
 - 💬 Ask me about **Anything**
